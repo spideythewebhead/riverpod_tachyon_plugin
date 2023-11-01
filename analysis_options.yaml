@@ -1,0 +1,13 @@
+include: package:lints/recommended.yaml
+
+linter:
+  rules:
+    avoid_print: true
+    prefer_single_quotes: true
+    prefer_const_constructors: true
+    always_declare_return_types: true
+    avoid_relative_lib_imports: true
+    discarded_futures: true
+    unawaited_futures: true
+    library_private_types_in_public_api: false
+    directives_ordering: true

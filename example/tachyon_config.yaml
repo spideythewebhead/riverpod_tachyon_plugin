@@ -1,0 +1,7 @@
+file_generation_paths:
+  - "lib/example.dart"
+
+plugins:
+  - riverpod_tachyon_plugin
+
+generated_file_line_length: 80

@@ -1,0 +1,9 @@
+name: riverpod_tachyon_plugin
+
+code_generator:
+  file: src/code_generator.dart
+  className: RiverpodCodeGenerator
+
+annotations:
+  - Riverpod
+  - riverpod
