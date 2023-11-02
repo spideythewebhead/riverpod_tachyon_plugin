@@ -12,7 +12,7 @@ environment:
 
 dependencies:
   crypto: ^3.0.3
-  tachyon: ^0.2.0
+  tachyon: ^0.2.1
 
 dev_dependencies:
   lints: ^2.1.1
