@@ -702,7 +702,7 @@ class $providerName
 
   @override
   (${familyParametersAsRecordSourceCode(parameters)}) get argument {
-    return ($parametersAsArguments);
+    return ($parametersAsArguments,);
   }
 
   @override
