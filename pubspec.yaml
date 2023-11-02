@@ -1,6 +1,6 @@
 name: riverpod_tachyon_plugin
 description: Riverpod code generator using Tachyon.
-version: 0.0.1-dev.0
+version: 0.0.1-dev.1
 
 homepage: https://github.com/spideythewebhead/riverpod_tachyon_plugin
 repository: https://github.com/spideythewebhead/riverpod_tachyon_plugin
